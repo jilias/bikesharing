@@ -1,5 +1,8 @@
 # bikesharing
 
+[link to dashboard](https://public.tableau.com/app/profile/jess4563)
+[link to dashboard](https://public.tableau.com/app/profile/jess4563)
+
 # Overview of the analysis
 This project was to use Citi's bike sharing service data and analyze how it's being used in New York City. In order to support how customers are using the service, visualizes from Tableau have been created. The data is broken down by times, gender, and subscription.
 
